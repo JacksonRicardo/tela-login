@@ -288,59 +288,12 @@
   height: 83px;
 }
 
-.denunciante .rectangle {
-  position: absolute;
-  width: 1920px;
-  height: 23px;
-  top: 0;
-  left: 0;
-  background-color: #141414;
-  border-radius: 5px 0px 5px 0px;
-}
-
-.denunciante .rectangle-2 {
-  position: absolute;
-  width: 230px;
-  height: 35px;
-  top: 0;
-  left: 11px;
-  background-color: #353535;
-  border-radius: 10px 10px 0px 0px;
-}
-
-.denunciante .rectangle-3 {
-  position: absolute;
-  width: 1920px;
-  height: 57px;
-  top: 26px;
-  left: 0;
-  background-color: #353535;
-}
-
-.denunciante .rectangle-4 {
-  position: absolute;
-  width: 11px;
-  height: 35px;
-  top: 0;
-  left: 0;
-  background-color: #141414;
-  border-radius: 0px 0px 10px 0px;
-}
-
 .denunciante .vector-3 {
   position: absolute;
   width: 18px;
   height: 16px;
   top: 45px;
   left: 97px;
-}
-
-.denunciante .vector-4 {
-  position: absolute;
-  width: 18px;
-  height: 16px;
-  top: 45px;
-  left: 17px;
 }
 
 .denunciante .vector-5 {
@@ -351,42 +304,12 @@
   left: 57px;
 }
 
-.denunciante .group {
-  position: absolute;
-  width: 13px;
-  height: 15px;
-  top: 11px;
-  left: 23px;
-}
-
-.denunciante .rectangle-5 {
-  position: absolute;
-  width: 1594px;
-  height: 33px;
-  top: 42px;
-  left: 137px;
-  background-color: #232323;
-  border-radius: 20px;
-  transform: rotate(180deg);
-}
-
 .denunciante .vector-6 {
   position: absolute;
   width: 10px;
   height: 9px;
   top: 12px;
   left: 215px;
-}
-
-.denunciante .rectangle-6 {
-  position: absolute;
-  width: 1679px;
-  height: 35px;
-  top: 0;
-  left: 241px;
-  background-color: #141414;
-  border-radius: 5px 0px 10px 0px;
-  transform: rotate(180deg);
 }
 
 .denunciante .puzzle {
